@@ -19,3 +19,4 @@ server.use(router);
 server.listen(PORT, () => {
     console.log(`Spotify server started at ${PORT}`);
 });
+
